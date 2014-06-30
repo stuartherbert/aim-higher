@@ -6,7 +6,7 @@ next: '<a href="licence.html">Next: Licence</a>'
 ---
 # Copyright
 
-Copyright (c) 2012 Stuart Herbert.
+Copyright (c) 2013 Stuart Herbert.
 
 The moral right of Stuart Herbert to be identified as the author of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988.
 
